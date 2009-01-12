@@ -10,7 +10,7 @@
 
 <!-- ENTITY viewsourcetitle.preface "চিহ্নিত বস্তুর উৎস: " -->
 
-<!ENTITY downloadMonitor2.tooltip "Click to open downloads window">
+<!ENTITY downloadMonitor2.tooltip "ডাউনলোড উইন্ডো খোলার জন্য ক্লিক করুন">
 <!-- ENTITY nothingAvailable.label "(কিছু উপলব্ধ নেই)" -->
 
 <!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): This will be appended to the window's title

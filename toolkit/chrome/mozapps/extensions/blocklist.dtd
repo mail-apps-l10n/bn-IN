@@ -1,10 +1,10 @@
-<!ENTITY blocklist.title             "Add-ons may be causing problems">
-<!ENTITY blocklist.style             "width: 45em; height: 30em">
-<!ENTITY blocklist.summary           "&brandShortName; has determined that the following add-ons are known to cause stability or security problems:">
-<!ENTITY blocklist.softblocked       "For your protection, it is highly recommended that you restart with these add-ons disabled.">
-<!ENTITY blocklist.hardblocked       "These add-ons have a high risk of causing stability or security problems and have been blocked, but a restart is required to disable them completely.">
-<!ENTITY blocklist.softandhard       "The add-ons that have a high risk of causing stability or security problems have been blocked. The others are lower risk, but it is highly recommended that you restart with them disabled.">
-<!ENTITY blocklist.moreinfo          "More information">
+<!ENTITY blocklist.title             "অতিরিক্ত সামগ্রীর ফলে সমস্যা দেখা দিতে পারে">
+<!ENTITY blocklist.style             "প্রস্থ: 45em; উচ্চতা: 30em">
+<!ENTITY blocklist.summary           "স্থায়ীত্ব ও নিরাপত্তা সংক্রান্ত সমস্যার উৎস হিসাবে &brandShortName; দ্বারা নিম্নলিখিত অতিরিক্ত সামগ্রীগুলিকে চিহ্নিত করা হয়েছে:">
+<!ENTITY blocklist.softblocked       "নিরাপত্তা ও স্থায়ীত্ব বজায় রাখার জন্য, অ্যাপ্লিকেশন পুনরায় আরম্ভ করার সময় চিহ্নিত অতিরিক্ত সামগ্রীগুলি নিষ্ক্রিয় করা অতিমাত্রায় বাঞ্ছনীয়।">
+<!ENTITY blocklist.hardblocked       "চিহ্নিত অতিরিক্ত সামগ্রীগুলির ফলে স্থায়ীত্ব ও নিরাপত্তা সংক্রান্ত সমস্যা দেখা দেওয়ার প্রবণতা থাকার ফলে এইগুলির ব্যবহার বর্তমানে রোধ করা হলে, এইগুলি স্থায়ীভাবে নিষ্ক্রিয় করার জন্য অ্যাপ্লিকেশন পুনরায় আরম্ভ করা আবশ্যক।">
+<!ENTITY blocklist.softandhard       "নিরাপত্তা ও স্থায়ীত্বের সমস্যা সৃষ্টিকারী অতিরিক্ত সামগ্রীগুলির ব্যবহার রোধ করা হয়েছে। অন্যান্য সামগ্রীগুলির ব্যবহারের ফলে উৎপন্ন সমস্যার প্রবণতা কম হলে, এইগুলি নিষ্ক্রিয় করে অ্যাপ্লিকেশন পুনরায় আরম্ভ করা অতিমাত্রায় বাঞ্ছনীয়।">
+<!ENTITY blocklist.moreinfo          "অতিরিক্ত তথ্য">
 
-<!ENTITY blocklist.accept.label      "Restart &brandShortName;">
+<!ENTITY blocklist.accept.label      "&brandShortName; পুনরায় আরম্ভ করুন">
 <!ENTITY blocklist.accept.accesskey  "R">
